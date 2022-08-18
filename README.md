@@ -51,5 +51,5 @@ Credentials for projects will be stored locally on developer machines. They will
 
 ## References
 
-https://www.w3schools.com/git/git_github_flow.asp
+https://www.w3schools.com/git/git_github_flow.asp 
 https://www.markdownguide.org/
