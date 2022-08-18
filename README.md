@@ -12,7 +12,6 @@ The various repostitories are:
 - [Project 4 - Testing and RPA](https://github.com/Tanaille/CMPG323-Project-4---36581852)
 - [Project 5 - Reporting and Monitoring](https://github.com/Tanaille/CMPG323-Project-5---36581852)
 - [Portfolio of Evidence](https://github.com/Tanaille/CMPG323-Portfolio-of-Evidence---36581852)
-- 
 
 ## Project Structure
 
